@@ -1,5 +1,5 @@
 - # 💫 About Me:
-👋 Hi, I’m @BSinhacodes<br>- 👀 I’m interested in Football, Travelling and Programming<br>- 🌱 I’m currently learning JS,SQL and JAVA<br>- 💞️ I’m looking to collaborate on any project on Front-end<br>- 📫 How to reach me- email: bodhisatwasinha272gmail.com
+👋 Hi, I’m @BSinhacodes<br>- 👀 I’m interested in Football, Travelling and Programming<br>- 🌱 I’m currently learning JS,SQL and JAVA<br>- 💞️ I’m looking to collaborate on any project on Front-end<br>- 📫 How to reach me- email: bodhisatwasinha27gmail.com
 
 
 ## 🌐 Socials:
